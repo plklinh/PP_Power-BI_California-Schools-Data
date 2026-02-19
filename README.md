@@ -11,7 +11,7 @@ I chose this dataset because I wanted to practice on real data, and also to have
 
 Even with this prior knowledge, I was still a bit shocked to observe the strong linear relationship in this particular dataset. Along the way, I also had fun using Power BI Parameter feature to make this exploration more interactive.
 
-![Video](https://raw.githubusercontent.com/plklinh/PP_Power-BI_California-Schools-Data/main/images/FRMP-SAT-Scores.mov)
+![](https://github.com/plklinh/PP_Power-BI_California-Schools-Data/blob/d5e785bfe9ba29791a843c5e902338accd08df24/images/FRMP-SAT-Scores.gif)
 
 ## Data 
 The original data consists of 3 tables:
