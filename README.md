@@ -9,7 +9,9 @@ The data was collated from 3 datasets provided by the California Department of E
 
 I chose this dataset because I wanted to practice on real data, and also to have a go at testing something I once heard from one of my Econometrics professors. He was warning us about confounding variables and the example he gave was a study that linked "IQ" with future income, but whose effect vanished once the parent income was controlled for. He didn't cite the specific study - which in hindsight, I should have asked for. From what I've learned since, there is no shortage of evidence for the effect of generational wealth on success, may it be financial or academic.
 
-Yet even with this prior knowledge, I was still a bit shocked to observe the strong linear relationship in this particular dataset. Along the way, I also had fun using Power BI Parameter feature to make this exploration more interactive.
+Even with this prior knowledge, I was still a bit shocked to observe the strong linear relationship in this particular dataset. Along the way, I also had fun using Power BI Parameter feature to make this exploration more interactive.
+
+![Video](https://raw.githubusercontent.com/plklinh/PP_Power-BI_California-Schools-Data/main/images/FRMP-SAT-Scores.mov)
 
 ## Data 
 The original data consists of 3 tables:
